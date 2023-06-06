@@ -1,0 +1,9 @@
+.logInChild {
+  position: absolute;
+  top: 463px;
+  left: 482px;
+  background-color: var(--color-royalblue);
+  width: 475px;
+  height: 80px;
+  cursor: pointer;
+}

@@ -1,0 +1,7 @@
+.div {
+  position: absolute;
+  top: 163px;
+  left: 576px;
+  font-size: var(--font-size-29xl);
+  color: var(--color-black);
+}
